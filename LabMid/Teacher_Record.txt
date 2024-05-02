@@ -1,0 +1,26 @@
+Teacher's Record is :- 
+
+Name is        :-  Q
+Father_name is :-  W
+Phone_no is    :-  1
+Salary is      :-  11
+
+Name is        :-  R
+Father_name is :-  W
+Phone_no is    :-  1
+Salary is      :-  12
+
+Name is        :-  T
+Father_name is :-  W
+Phone_no is    :-  1
+Salary is      :-  14
+
+Name is        :-  C
+Father_name is :-  D
+Phone_no is    :-  1
+Salary is      :-  14
+
+Name is        :-  S
+Father_name is :-  H
+Phone_no is    :-  1
+Salary is      :-  13

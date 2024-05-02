@@ -1,0 +1,26 @@
+Student's Record is :- 
+
+Name is        :-  A
+Father_name is :-  S
+Phone_no is    :-  1
+Marks are      :-  2
+
+Name is        :-  A
+Father_name is :-  S
+Phone_no is    :-  1
+Marks are      :-  2
+
+Name is        :-  A
+Father_name is :-  S
+Phone_no is    :-  1
+Marks are      :-  2
+
+Name is        :-  A
+Father_name is :-  S
+Phone_no is    :-  1
+Marks are      :-  3
+
+Name is        :-  A
+Father_name is :-  S
+Phone_no is    :-  1
+Marks are      :-  3
